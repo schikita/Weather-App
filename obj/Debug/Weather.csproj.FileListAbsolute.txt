@@ -1,0 +1,13 @@
+E:\Проекты\Ясь\C#\Weather\Weather\bin\Debug\Weather.exe.config
+E:\Проекты\Ясь\C#\Weather\Weather\bin\Debug\Weather.exe
+E:\Проекты\Ясь\C#\Weather\Weather\bin\Debug\Weather.pdb
+E:\Проекты\Ясь\C#\Weather\Weather\bin\Debug\Newtonsoft.Json.dll
+E:\Проекты\Ясь\C#\Weather\Weather\bin\Debug\Newtonsoft.Json.xml
+E:\Проекты\Ясь\C#\Weather\Weather\obj\Debug\Weather.csproj.AssemblyReference.cache
+E:\Проекты\Ясь\C#\Weather\Weather\obj\Debug\Weather.Properties.Resources.resources
+E:\Проекты\Ясь\C#\Weather\Weather\obj\Debug\Weather.csproj.GenerateResource.cache
+E:\Проекты\Ясь\C#\Weather\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+E:\Проекты\Ясь\C#\Weather\Weather\obj\Debug\Weather.csproj.Up2Date
+E:\Проекты\Ясь\C#\Weather\Weather\obj\Debug\Weather.exe
+E:\Проекты\Ясь\C#\Weather\Weather\obj\Debug\Weather.pdb
+E:\Проекты\Ясь\C#\Weather\Weather\obj\Debug\WeatherApp.Form1.resources
